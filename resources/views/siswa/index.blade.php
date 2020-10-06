@@ -18,7 +18,6 @@
                 <div class="col-6">
                     <h1>Data Siswa</h1>
                 </div>
-                <br>
                 <div class="col-6">
                         <button type="button" class="btn btn-primary btn-sm float-right" data-toggle="modal" data-target="#staticBackdrop">
                         Tambah Data Siswa
